@@ -75,6 +75,9 @@ int main(){
 		    		printf("amany pasand\n");
 		    		break;
 		    	}
+		    	default:
+		    		printf("invalid choice");
+		    		break;
 			
 	}
 	
